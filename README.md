@@ -106,3 +106,5 @@ Computer Engineering Student | AI & Data Science student
 🔗 GitHub: https://github.com/HosseinHeydari2004
 <br>
 🔗 Kaggle: https://www.kaggle.com/code/mrhosseinheydari/karnataka-agriculture-analysis
+
+Thank you for watching.🙏
