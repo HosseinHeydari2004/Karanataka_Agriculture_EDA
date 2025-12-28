@@ -101,7 +101,7 @@ This project can be used for the following purposes:
 ## 👤 Author
 
 **Hossein Heydari**  
-Computer Science Student | AI & Data Science student  
+Computer Engineering Student | AI & Data Science student  
 
 🔗 GitHub: https://github.com/HosseinHeydari2004
 <br>
