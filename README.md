@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
 </p>
 
+<p align="center">
+  <img src="https://thumbs.dreamstime.com/b/rice-field-karnataka-india-20735145.jpg">
+</p>
+
 ## 🔍 Table of Contents
 - [📌 Project Overview](#-project-overview)
 - [📊 Dataset Description](#-dataset-description)
